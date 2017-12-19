@@ -18,7 +18,7 @@ I appreciate: good humor and a willingness to get weird.
 </div>
 
 <div class="bio">
-<h3>William Felker/h3>
+<h3>William Felker</h3>
 <p>My mind races 24-7. I’m constantly observing and questioning, pondering how to innovate the smallest details to improve the user experience. Adding to the value of the human experience through good design:
 
 this is what excites me…this is what drives me.
