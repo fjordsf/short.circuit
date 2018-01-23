@@ -1,10 +1,11 @@
 ---
-title: Style is not a Four Letter Word
+title: title soon
 author: William Lark
 type: <i class="fa fa-file-text" aria-hidden="true"></i>
 tags:
-- Style
-year: 2017
-link: PDF/style-keedy.pdf
+- Computer Vision
+- Talk
+year: 2018
+link:
 video:
 ---

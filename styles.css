@@ -13,6 +13,13 @@ body {
     font-family: 'Exo 2', sans-serif;
     font-size: 18px;
 }
+
+.navright{
+  display: inline-block;
+height: 100%;
+width: 100%;
+}
+
 .clear {
   clear: both;
   display: block;
