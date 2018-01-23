@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-Short Circuts socializes emergent technologies throught Fjord offices through a series of talks and workshops.
+Short Circuits socializes emergent technologies through Fjord offices through a series of talks and workshops.
 
 <div class="bio">
 <h3>William Lark</h3>
@@ -19,10 +19,8 @@ I appreciate: good humor and a willingness to get weird.
 
 <div class="bio">
 <h3>William Felker</h3>
-<p>My mind races 24-7. I’m constantly observing and questioning, pondering how to innovate the smallest details to improve the user experience. Adding to the value of the human experience through good design:
-
-this is what excites me…this is what drives me.
-
-Email: hello@williamfelker.com
+<p>I have have been using this: Over the past year I have been researching emerging technologies (such as blockchain, speculative interfaces, and IOT) to understand how to best translate them into comprehensive prototypes which demonstrate their affect on a given industry. These prototypes have been a mix of holding workshops, design fiction essays, presentations and physical prototypes with embedded electronics. In my daily work I am driven by learning and implementing new technologies through collaborating with others that allow me to expand how I execute my work.
+<br>
+Email: <a href="mailto:hello@williamfelker.com?Subject=Hello%20again" target="_top">
 Phone: 608.719.8578</p>
 </div>
